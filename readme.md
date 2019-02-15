@@ -1,5 +1,6 @@
 see `https://github.com/eugenp/tutorials/tree/master/spring-5-security-oauth`
-
+see `https://www.baeldung.com/spring-security-5-oauth2-login`
+see `https://docs.spring.io/spring-security/site/docs/5.1.3.RELEASE/reference/htmlsingle/`
 
 
 <차주 스터디 계획>
